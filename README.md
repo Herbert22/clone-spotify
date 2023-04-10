@@ -1,2 +1,2 @@
 # clone-spotify
- clono do spotify com bootstrap
+ clone do spotify com bootstrap
